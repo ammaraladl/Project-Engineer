@@ -43,4 +43,4 @@ An Excel dashboard to **track tasks, timelines, and status** of work progress re
 
 ## 📁 Folder Structure
 
-![Task Tracker Dashboard-SWA](TaskTrackerDashboard.PNG)
+![Task Tracker Dashboard-SWA](TaskTrackerDashboard.png)
