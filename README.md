@@ -2,7 +2,7 @@
 
 This repository contains :-
 - Documentation and tracking files related to infrastructure work and coordination across SWA (Saudi Authority Water).
-- Rports Related To Site Survey and Installation For ZATCA (Zakat , Tax and Customs Authority).  
+- Reports Related To Site Survey and Installation For ZATCA (Zakat , Tax and Customs Authority).  
 ---
 
 ## 📄 Project Documents
