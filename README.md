@@ -1,20 +1,27 @@
-# 📁 ZATCA Infrastructure Projects & Task Dashboard
+# 📁 SWA Infrastructure Projects & Task Dashboard
 
-This repository contains documentation and tracking files related to infrastructure work and coordination across multiple Saudi Arabian airports, ports, and customs areas
-— in collaboration with **ZATCA (Zakat, Tax and Customs Authority)**.
-
+This repository contains :-
+- Documentation and tracking files related to infrastructure work and coordination across SWA (Saudi Authority Water).
+- Reports Related To Site Survey and Installation For ZATCA (Zakat , Tax and Customs Authority).  
 ---
 
 ## 📄 Project Documents
 
-### 1. `Zatca Project.pdf`
+### 1. `Zatca and SWA Project.pdf`
 📌 **Language:** Arabic  
 📋 **Description:**  
-A detailed technical report outlining excavation and infrastructure connection work for network and customs systems at the following locations:
+A detailed technical report outlining excavation and infrastructure connection work for network and Security systems at the following locations:
 
-- ✈️ Airports: Taif, Yanbu, Madinah, Abha, Jazan
-- ⚓ Ports: King Abdullah Port (Rabigh), Jazan Port
-- 🚛 Land Port: Al Wadi’ah
+For SWA :- 
+- Ras AL Khair Desalination Plant.
+- Khafji Desalination Plant.
+- Reservoirs (Nairyah, Ibn Hithleen, Sayriah, Qaryat al Olyah, Sadawei, Qaysouma, Haf Al Batin).
+- Line Valve, VDV's (Draining Valve).
+
+For ZATCA :- 
+- Airports: Taif, Yanbu, Madinah, Abha, Jazan.
+- Ports: King Abdullah Port (Rabigh), Jazan Port.
+- Land Port: Al Wadi’ah.
 
 📎 **Topics Covered:**
 - Site names & locations
@@ -29,7 +36,7 @@ A detailed technical report outlining excavation and infrastructure connection w
 
 ### 2. `Task Tracker Dashboard-SWA.xlsx`
 📋 **Description:**  
-An Excel dashboard to **track tasks, timelines, and status** of work progress related to ZATCA projects.
+An Excel dashboard to **track tasks, timelines, and status** of work progress related to SWA projects.
 
 📎 **Features:**
 - Task status tracking (e.g., Completed, In Progress)
